@@ -1,0 +1,7 @@
+{
+  "name": "niuma-desktop",
+  "productName": "牛马鼓励器",
+  "version": "1.3.4",
+  "private": true,
+  "main": "main.cjs"
+}
